@@ -1,6 +1,6 @@
+# Customer Value & Repeat-Purchase Prediction for E-Commerce (Olist)
 # DEPI-E-Commerce-Customer-Value-Prediction
 DEPI Data Science Graduation Project: E-Commerce Customer Value Analysis and Purchase Prediction using Machine Learning.
-# Customer Value & Repeat-Purchase Prediction for E-Commerce (Olist)
 
 > Data Scientist Track – Graduation Project (Project 7)
 > Team: _[AAMMO]_ · Members:[Assem Abdelgawad ,Ahmed Mostafa ,Mohamed Essam ,Menna Mohamed ,Omar Bastawisy]
@@ -176,11 +176,11 @@ An online marketplace processes tens of thousands of orders, but management has 
 
 | Member | Role |
 |---|---|
-| _[AhmedMostafa]_ | Database & SQL |
-| _[MohamedEssam]_ | Data cleaning |
-|_[OmarBastawisy]_ |EDA|
-| _[AssemAbdelgawad]_ | Machine learning |
-| _[MennaMohamed]_ | Dashboard |
+| _[Ahmed Mostafa]_ | Database & SQL |
+| _[Mohamed Essam]_ | Data cleaning |
+|_[Omar Bastawisy]_ |EDA|
+| _[Assem Abdelgawad]_ | Machine learning |
+| _[Menna Mohamed]_ | Dashboard |
 | _[all_Team]_ | Documentation & presentation |
 
 ## 12. How to Run
