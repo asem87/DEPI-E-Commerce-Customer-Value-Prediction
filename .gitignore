@@ -1,0 +1,6 @@
+# data is big - do not commit it (everyone downloads it from Kaggle)
+data/
+*.db
+processed_data.zip
+.ipynb_checkpoints/
+__pycache__/
