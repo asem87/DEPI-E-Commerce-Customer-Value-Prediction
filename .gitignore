@@ -1,0 +1,4 @@
+data/raw/
+*.db
+processed_data.zip
+.ipynb_checkpoints/

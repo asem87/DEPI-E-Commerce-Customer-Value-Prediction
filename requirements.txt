@@ -1,0 +1,21 @@
+# ---- Needed now: SQL analysis + data cleaning notebooks ----
+pandas>=2.0
+numpy>=1.24
+kagglehub>=0.2          # downloads the Olist dataset from Kaggle
+jupyter                 # run the notebooks locally (not needed in Colab)
+ipykernel
+
+# sqlite3 is part of Python (no install needed)
+
+# ---- Later stages (uncomment when you start them) ----
+# matplotlib             # EDA charts
+# seaborn
+# scikit-learn           # preprocessing + ML models
+# xgboost                # ML
+# lightgbm               # ML
+# imbalanced-learn       # SMOTE for the class imbalance
+# plotly                 # dashboard charts
+# dash                   # dashboard
+# mlflow                 # optional: experiment tracking
+# fastapi                # optional: model serving
+# uvicorn
